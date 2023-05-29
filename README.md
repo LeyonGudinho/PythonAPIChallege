@@ -3,7 +3,7 @@
 ## Pre-requisites
  - Install pip installer
  - Download requests module using 
-    pip install requests
+    'pip install requests'
     
 ## How to run 
 1. Add python path in your environment variable path
